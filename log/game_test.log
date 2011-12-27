@@ -1,0 +1,75 @@
+Dec 27 08:17:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:17:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:17:37 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:17:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:17:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:17:37 symfony [info] {sfWebResponse} Send content (1030 o)
+Dec 27 08:17:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:17:37 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:17:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:17:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:17:37 symfony [info] {sfWebResponse} Send content (1028 o)
+Dec 27 08:17:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:17:37 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:17:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:17:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:17:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:17:37 symfony [info] {sfWebResponse} Send content (1249 o)
+Dec 27 08:18:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:18:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:18:50 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:18:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:18:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:18:50 symfony [info] {sfWebResponse} Send content (1030 o)
+Dec 27 08:18:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:18:50 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:18:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:18:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:18:50 symfony [info] {sfWebResponse} Send content (1030 o)
+Dec 27 08:18:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:18:50 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:18:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:18:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:18:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:18:50 symfony [info] {sfWebResponse} Send content (1250 o)
+Dec 27 08:28:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:28:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:28:55 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:28:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:28:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:28:55 symfony [info] {sfWebResponse} Send content (1030 o)
+Dec 27 08:28:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:28:55 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:28:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:28:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:28:55 symfony [info] {sfWebResponse} Send content (1030 o)
+Dec 27 08:28:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:28:55 symfony [info] {sfFilterChain} Executing filter "sfFakeRenderingFilter"
+Dec 27 08:28:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:28:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:28:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:28:55 symfony [info] {sfWebResponse} Send content (1249 o)

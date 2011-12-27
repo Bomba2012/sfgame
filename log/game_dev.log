@@ -1,0 +1,1222 @@
+Dec 27 08:07:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:07:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:07:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:07:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:12 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:12 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:12 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:12 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:12 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:12 symfony [info] {sfWebDebugLogger} Configuration 5.74 ms (10)
+Dec 27 08:08:12 symfony [info] {sfWebDebugLogger} Factories 9.51 ms (1)
+Dec 27 08:08:12 symfony [info] {sfWebDebugLogger} Action "default/index" 2.19 ms (1)
+Dec 27 08:08:12 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 10.82 ms (1)
+Dec 27 08:08:12 symfony [info] {sfWebResponse} Send content (28778 o)
+Dec 27 08:08:15 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:15 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:15 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:15 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:15 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:15 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:15 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:15 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:15 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:15 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:15 symfony [info] {sfWebDebugLogger} Factories 7.06 ms (1)
+Dec 27 08:08:15 symfony [info] {sfWebDebugLogger} Action "default/index" 1.76 ms (1)
+Dec 27 08:08:15 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.15 ms (1)
+Dec 27 08:08:15 symfony [info] {sfWebResponse} Send content (28847 o)
+Dec 27 08:08:23 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:23 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:23 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:23 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:23 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:23 symfony [info] {sfWebDebugLogger} Configuration 1.45 ms (9)
+Dec 27 08:08:23 symfony [info] {sfWebDebugLogger} Factories 6.48 ms (1)
+Dec 27 08:08:23 symfony [info] {sfWebDebugLogger} Action "default/index" 1.71 ms (1)
+Dec 27 08:08:23 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.91 ms (1)
+Dec 27 08:08:23 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:24 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:24 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:24 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:24 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:24 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:24 symfony [info] {sfWebDebugLogger} Configuration 1.48 ms (9)
+Dec 27 08:08:24 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:24 symfony [info] {sfWebDebugLogger} Action "default/index" 1.70 ms (1)
+Dec 27 08:08:24 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.86 ms (1)
+Dec 27 08:08:24 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:25 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:25 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:25 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:25 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} Configuration 1.46 ms (9)
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} Factories 6.38 ms (1)
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} Action "default/index" 1.69 ms (1)
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.82 ms (1)
+Dec 27 08:08:25 symfony [info] {sfWebResponse} Send content (28773 o)
+Dec 27 08:08:25 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:25 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:25 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:25 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:25 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} Configuration 1.47 ms (9)
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} Factories 6.53 ms (1)
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} Action "default/index" 1.75 ms (1)
+Dec 27 08:08:25 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.91 ms (1)
+Dec 27 08:08:25 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:26 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:26 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:26 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:26 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} Configuration 1.47 ms (9)
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} Action "default/index" 1.75 ms (1)
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.90 ms (1)
+Dec 27 08:08:26 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:26 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:26 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:26 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:26 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:26 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} Configuration 1.47 ms (9)
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} Factories 6.42 ms (1)
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} Action "default/index" 1.74 ms (1)
+Dec 27 08:08:26 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.92 ms (1)
+Dec 27 08:08:26 symfony [info] {sfWebResponse} Send content (28771 o)
+Dec 27 08:08:27 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:27 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:27 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:27 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:27 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:27 symfony [info] {sfWebDebugLogger} Configuration 1.46 ms (9)
+Dec 27 08:08:27 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:27 symfony [info] {sfWebDebugLogger} Action "default/index" 1.69 ms (1)
+Dec 27 08:08:27 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.85 ms (1)
+Dec 27 08:08:27 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:28 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:28 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:28 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:28 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:28 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} Configuration 1.42 ms (9)
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} Factories 6.41 ms (1)
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} Action "default/index" 1.71 ms (1)
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.84 ms (1)
+Dec 27 08:08:28 symfony [info] {sfWebResponse} Send content (28773 o)
+Dec 27 08:08:28 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:28 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:28 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:28 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:28 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} Configuration 1.47 ms (9)
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} Factories 6.36 ms (1)
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} Action "default/index" 1.73 ms (1)
+Dec 27 08:08:28 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.93 ms (1)
+Dec 27 08:08:29 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:29 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:29 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:29 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:29 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:29 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:29 symfony [info] {sfWebDebugLogger} Configuration 1.44 ms (9)
+Dec 27 08:08:29 symfony [info] {sfWebDebugLogger} Factories 6.36 ms (1)
+Dec 27 08:08:29 symfony [info] {sfWebDebugLogger} Action "default/index" 1.72 ms (1)
+Dec 27 08:08:29 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.90 ms (1)
+Dec 27 08:08:29 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:30 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:30 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:30 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:30 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:30 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:30 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:30 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:30 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:30 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:30 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:30 symfony [info] {sfWebDebugLogger} Factories 6.36 ms (1)
+Dec 27 08:08:30 symfony [info] {sfWebDebugLogger} Action "default/index" 1.71 ms (1)
+Dec 27 08:08:30 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.91 ms (1)
+Dec 27 08:08:30 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:31 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:31 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:31 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:31 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} Action "default/index" 1.72 ms (1)
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.90 ms (1)
+Dec 27 08:08:31 symfony [info] {sfWebResponse} Send content (28773 o)
+Dec 27 08:08:31 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:31 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:31 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:31 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:31 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} Action "default/index" 1.81 ms (1)
+Dec 27 08:08:31 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.10 ms (1)
+Dec 27 08:08:31 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:32 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:32 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:32 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:32 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} Action "default/index" 1.75 ms (1)
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.02 ms (1)
+Dec 27 08:08:32 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:32 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:32 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:32 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:32 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:32 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} Factories 6.53 ms (1)
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} Action "default/index" 1.77 ms (1)
+Dec 27 08:08:32 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 4.01 ms (1)
+Dec 27 08:08:32 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:33 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:33 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:33 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:33 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:33 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} Factories 6.36 ms (1)
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} Action "default/index" 1.77 ms (1)
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.84 ms (1)
+Dec 27 08:08:33 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:33 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:33 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:33 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:33 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:33 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} Configuration 1.43 ms (9)
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} Factories 6.36 ms (1)
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} Action "default/index" 1.72 ms (1)
+Dec 27 08:08:33 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.98 ms (1)
+Dec 27 08:08:33 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:34 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:34 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:34 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:34 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:34 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} Configuration 1.44 ms (9)
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} Factories 6.36 ms (1)
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} Action "default/index" 1.69 ms (1)
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.85 ms (1)
+Dec 27 08:08:34 symfony [info] {sfWebResponse} Send content (28773 o)
+Dec 27 08:08:34 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:34 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:34 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:34 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:34 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} Configuration 1.44 ms (9)
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} Factories 6.35 ms (1)
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} Action "default/index" 1.69 ms (1)
+Dec 27 08:08:34 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.84 ms (1)
+Dec 27 08:08:34 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:35 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:35 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:35 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:35 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} Configuration 2.50 ms (9)
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} Factories 11.07 ms (1)
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.59 ms (1)
+Dec 27 08:08:35 symfony [info] {sfWebResponse} Send content (28772 o)
+Dec 27 08:08:35 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:35 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:35 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:35 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:35 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} Configuration 2.50 ms (9)
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:35 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.61 ms (1)
+Dec 27 08:08:35 symfony [info] {sfWebResponse} Send content (28772 o)
+Dec 27 08:08:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:36 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:36 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:36 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:36 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} Factories 13.18 ms (1)
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} Action "default/index" 2.94 ms (1)
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.70 ms (1)
+Dec 27 08:08:36 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:36 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:36 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:36 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:36 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:36 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:36 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:36 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} Configuration 2.50 ms (9)
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:36 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.61 ms (1)
+Dec 27 08:08:36 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:37 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} Configuration 2.62 ms (9)
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} Factories 12.58 ms (1)
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} Action "default/index" 3.01 ms (1)
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.60 ms (1)
+Dec 27 08:08:37 symfony [info] {sfWebResponse} Send content (28772 o)
+Dec 27 08:08:37 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:37 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:37 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:37 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} Configuration 2.50 ms (9)
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:37 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.60 ms (1)
+Dec 27 08:08:37 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:38 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:38 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:38 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:38 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} Factories 11.75 ms (1)
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.64 ms (1)
+Dec 27 08:08:38 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:08:38 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:38 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:38 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:38 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:38 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:38 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:38 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} Configuration 2.62 ms (9)
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} Factories 13.93 ms (1)
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} Action "default/index" 3.41 ms (1)
+Dec 27 08:08:38 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.68 ms (1)
+Dec 27 08:08:38 symfony [info] {sfWebResponse} Send content (28775 o)
+Dec 27 08:08:39 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:39 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:39 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:39 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:39 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:39 symfony [info] {sfWebDebugLogger} Configuration 2.59 ms (9)
+Dec 27 08:08:39 symfony [info] {sfWebDebugLogger} Factories 14.99 ms (1)
+Dec 27 08:08:39 symfony [info] {sfWebDebugLogger} Action "default/index" 3.49 ms (1)
+Dec 27 08:08:39 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 8.46 ms (1)
+Dec 27 08:08:39 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:40 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:40 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:40 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:40 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} Factories 12.50 ms (1)
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.44 ms (1)
+Dec 27 08:08:40 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:40 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:40 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:40 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:40 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:40 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:40 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:40 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:40 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:40 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} Configuration 2.60 ms (9)
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} Factories 13.25 ms (1)
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:08:40 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.48 ms (1)
+Dec 27 08:08:40 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:41 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:41 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:41 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} Factories 12.50 ms (1)
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.44 ms (1)
+Dec 27 08:08:41 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:41 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:41 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:41 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} Factories 12.61 ms (1)
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:41 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.45 ms (1)
+Dec 27 08:08:41 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:42 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:42 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:42 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:42 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} Factories 12.49 ms (1)
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.46 ms (1)
+Dec 27 08:08:42 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:42 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:42 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:42 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:42 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} Factories 12.48 ms (1)
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} Action "default/index" 2.96 ms (1)
+Dec 27 08:08:42 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.44 ms (1)
+Dec 27 08:08:42 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:43 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:43 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:43 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:43 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} Configuration 2.57 ms (9)
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} Factories 12.62 ms (1)
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.44 ms (1)
+Dec 27 08:08:43 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:08:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:43 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:43 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:43 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:43 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} Configuration 2.56 ms (9)
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} Factories 12.51 ms (1)
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} Action "default/index" 2.96 ms (1)
+Dec 27 08:08:43 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.42 ms (1)
+Dec 27 08:08:43 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:44 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:44 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:44 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:44 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} Factories 12.53 ms (1)
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.43 ms (1)
+Dec 27 08:08:44 symfony [info] {sfWebResponse} Send content (28772 o)
+Dec 27 08:08:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:44 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:44 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:44 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:44 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} Factories 12.58 ms (1)
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:08:44 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.44 ms (1)
+Dec 27 08:08:44 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:45 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:45 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:45 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:45 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} Factories 12.53 ms (1)
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.47 ms (1)
+Dec 27 08:08:45 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:45 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:45 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:45 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:45 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:45 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} Configuration 2.58 ms (9)
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} Factories 12.54 ms (1)
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:45 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.47 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:46 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:46 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:46 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:46 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} Factories 14.24 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} Action "default/index" 3.46 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 8.06 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:46 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:46 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:46 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:46 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} Configuration 2.49 ms (9)
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} Factories 11.03 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} Action "default/index" 3.02 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.68 ms (1)
+Dec 27 08:08:46 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:47 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:47 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:47 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:47 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:47 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} Factories 11.04 ms (1)
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.64 ms (1)
+Dec 27 08:08:47 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:47 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:47 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:47 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:47 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:47 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} Factories 11.06 ms (1)
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:47 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.64 ms (1)
+Dec 27 08:08:47 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:48 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:48 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:48 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:48 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:48 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} Configuration 2.51 ms (9)
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} Factories 11.06 ms (1)
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.64 ms (1)
+Dec 27 08:08:48 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:48 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:48 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:48 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:48 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:48 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} Configuration 2.51 ms (9)
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} Factories 11.07 ms (1)
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:48 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.63 ms (1)
+Dec 27 08:08:48 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:08:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:49 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:49 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:49 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:49 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} Factories 11.05 ms (1)
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.63 ms (1)
+Dec 27 08:08:49 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:08:49 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:49 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:49 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:49 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:49 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} Configuration 2.57 ms (9)
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} Factories 13.29 ms (1)
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:49 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.33 ms (1)
+Dec 27 08:08:49 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:50 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} Configuration 2.61 ms (9)
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.71 ms (1)
+Dec 27 08:08:50 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:50 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:50 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:50 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:50 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} Configuration 2.60 ms (9)
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} Factories 11.11 ms (1)
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:50 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.63 ms (1)
+Dec 27 08:08:50 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:51 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:51 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:51 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:51 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:51 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} Factories 11.07 ms (1)
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.73 ms (1)
+Dec 27 08:08:51 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:51 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:51 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:51 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:51 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:51 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} Configuration 2.60 ms (9)
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} Factories 11.11 ms (1)
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:51 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.63 ms (1)
+Dec 27 08:08:51 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:52 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:52 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:52 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:52 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:52 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} Configuration 2.57 ms (9)
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.72 ms (1)
+Dec 27 08:08:52 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:08:52 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:52 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:52 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:52 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:52 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:52 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:52 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:52 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:52 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} Configuration 2.54 ms (9)
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} Factories 11.12 ms (1)
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:52 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.68 ms (1)
+Dec 27 08:08:52 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:53 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Configuration 2.56 ms (9)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.67 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:53 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Configuration 2.60 ms (9)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.66 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:53 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:53 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:53 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Configuration 2.56 ms (9)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.68 ms (1)
+Dec 27 08:08:53 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:54 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:54 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:54 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:54 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:54 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} Configuration 2.56 ms (9)
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.68 ms (1)
+Dec 27 08:08:54 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:54 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:54 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:54 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:54 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:54 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} Configuration 2.60 ms (9)
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} Factories 11.15 ms (1)
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} Action "default/index" 3.07 ms (1)
+Dec 27 08:08:54 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.62 ms (1)
+Dec 27 08:08:54 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:55 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} Configuration 2.56 ms (9)
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.67 ms (1)
+Dec 27 08:08:55 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:55 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:55 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:55 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:55 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} Configuration 2.56 ms (9)
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:55 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.67 ms (1)
+Dec 27 08:08:55 symfony [info] {sfWebResponse} Send content (28772 o)
+Dec 27 08:08:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:56 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:56 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:56 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:56 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} Configuration 2.59 ms (9)
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} Factories 11.80 ms (1)
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} Action "default/index" 3.07 ms (1)
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.71 ms (1)
+Dec 27 08:08:56 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:56 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:56 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:56 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:56 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:56 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} Configuration 2.54 ms (9)
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:56 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.68 ms (1)
+Dec 27 08:08:56 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:57 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:57 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:57 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:57 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:57 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} Configuration 2.54 ms (9)
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.69 ms (1)
+Dec 27 08:08:57 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:57 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:57 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:57 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:57 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:57 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:57 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:57 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:57 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:57 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} Configuration 2.54 ms (9)
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:57 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.75 ms (1)
+Dec 27 08:08:57 symfony [info] {sfWebResponse} Send content (28778 o)
+Dec 27 08:08:58 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:58 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:58 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:58 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:58 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:58 symfony [info] {sfWebDebugLogger} Configuration 2.54 ms (9)
+Dec 27 08:08:58 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:58 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:08:58 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.69 ms (1)
+Dec 27 08:08:58 symfony [info] {sfWebResponse} Send content (28772 o)
+Dec 27 08:08:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:59 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Configuration 2.66 ms (9)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Factories 17.30 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Action "default/index" 4.32 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 9.51 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:08:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:59 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Action "default/index" 2.97 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.71 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:08:59 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:08:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:08:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:08:59 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:59 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:08:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Configuration 2.51 ms (9)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:08:59 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.73 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:00 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:00 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:00 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} Configuration 2.50 ms (9)
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} Factories 11.05 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} Action "default/index" 2.94 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.71 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:00 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:00 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:00 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:00 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:00 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} Action "default/index" 2.94 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.76 ms (1)
+Dec 27 08:09:00 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:01 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:01 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:01 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:01 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:01 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:01 symfony [info] {sfWebDebugLogger} Configuration 2.63 ms (9)
+Dec 27 08:09:01 symfony [info] {sfWebDebugLogger} Factories 11.43 ms (1)
+Dec 27 08:09:01 symfony [info] {sfWebDebugLogger} Action "default/index" 3.02 ms (1)
+Dec 27 08:09:01 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 9.01 ms (1)
+Dec 27 08:09:01 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:01 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:02 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:02 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:02 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:02 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} Configuration 2.01 ms (9)
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} Factories 495.24 ms (1)
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} Action "default/index" 1.74 ms (1)
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 3.88 ms (1)
+Dec 27 08:09:02 symfony [info] {sfWebResponse} Send content (28777 o)
+Dec 27 08:09:02 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:02 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:02 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:02 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:02 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} Configuration 2.54 ms (9)
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} Factories 11.12 ms (1)
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:09:02 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.72 ms (1)
+Dec 27 08:09:02 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:03 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:03 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:03 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:03 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:03 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} Factories 11.07 ms (1)
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} Action "default/index" 2.99 ms (1)
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.61 ms (1)
+Dec 27 08:09:03 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:03 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:03 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:03 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:03 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:03 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} Factories 11.08 ms (1)
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} Action "default/index" 2.94 ms (1)
+Dec 27 08:09:03 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.67 ms (1)
+Dec 27 08:09:03 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:04 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:04 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:04 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:04 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:04 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} Configuration 2.51 ms (9)
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} Factories 11.07 ms (1)
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.77 ms (1)
+Dec 27 08:09:04 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:04 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:04 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:04 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:04 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:04 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} Factories 11.09 ms (1)
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:09:04 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.72 ms (1)
+Dec 27 08:09:04 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:05 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} Factories 11.05 ms (1)
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.69 ms (1)
+Dec 27 08:09:05 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:05 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} Action "default/index" 2.94 ms (1)
+Dec 27 08:09:05 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.79 ms (1)
+Dec 27 08:09:05 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:05 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:05 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:05 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Factories 11.13 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 7.47 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send content (28776 o)
+Dec 27 08:09:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:06 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Factories 11.06 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Action "default/index" 3.02 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.67 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:09:06 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:06 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:06 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Configuration 2.53 ms (9)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} Action "default/index" 2.95 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.84 ms (1)
+Dec 27 08:09:06 symfony [info] {sfWebResponse} Send content (28774 o)
+Dec 27 08:09:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:07 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:07 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:07 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:07 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} Configuration 2.52 ms (9)
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} Factories 11.10 ms (1)
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.67 ms (1)
+Dec 27 08:09:07 symfony [info] {sfWebResponse} Send content (28778 o)
+Dec 27 08:09:07 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Dec 27 08:09:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Dec 27 08:09:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Dec 27 08:09:07 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Dec 27 08:09:07 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/modules/default/templates/indexSuccess.php"
+Dec 27 08:09:07 symfony [info] {sfPHPView} Decorate content with "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:07 symfony [info] {sfPHPView} Render "/var/www/sfprojects/sfgame/apps/game/templates/layout.php"
+Dec 27 08:09:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Dec 27 08:09:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} Configuration 2.55 ms (9)
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} Factories 11.06 ms (1)
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} Action "default/index" 2.98 ms (1)
+Dec 27 08:09:07 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 6.61 ms (1)
+Dec 27 08:09:07 symfony [info] {sfWebResponse} Send content (28776 o)
