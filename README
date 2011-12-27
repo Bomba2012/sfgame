@@ -1,0 +1,18 @@
+To install just copy sfgame in /var/www.
+
+For run type path to web folder. ie http://localhost/sfgame/web.
+
+TEST in sfgame dir:
+Unit test run: symfony test:unit game
+Functional test run: symfony test:functional game defaultActions
+or just: symfony test:all
+
+Enjoy!
+
+
+This is not an MVC project (there is no Model).
+Game logic and forms are in apps/game/lib.
+Game class define and perform all game logic.
+Default Action just call Game class and set vars for templates.
+
+My code only do requirements for: # What we ask you to do
